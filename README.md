@@ -19,3 +19,7 @@ For testing the file and chatting with the bot, run directly ChatWithChatbot fil
 <b>concat attention:</b> https://drive.google.com/file/d/1XqP7eWs8SnciudTmILhTeB_HyvyA48Xe/view?usp=sharing <br>
 
 For better results, load the files in Google Drive, since they are directly linked with the file.
+
+# References
+Code and general model architecture was taken from this excellent tutorial on chatbots.<br>
+https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/chatbot_tutorial.ipynb#scrollTo=0AhW5CesrfBu
